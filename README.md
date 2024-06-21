@@ -22,6 +22,16 @@ Welcome to my Data Analysis Projects Repository! This repository contains a coll
   - Performed comprehensive EDA, including analysis of total layoffs by company, industry, country, and year.
   - Identified companies with 100% layoffs and analyzed layoffs trends over time with rolling totals and rankings.
 
+### 3. Data Professional Survey Breakdown Dashboard
+- **Overview**: This project features a Power BI dashboard that breaks down survey responses from data professionals across various demographics and job titles. It provides insights into the favorite programming languages among professionals, the perceived difficulty of entering the data industry, and the overall happiness levels at work.
+- **Tools Used**: Power BI
+- **Key Features**:
+  - Interactive dashboard with visual breakdowns of survey takers by demographics such as age, gender, and educational background.
+  - Analysis of job titles and roles within the data industry, highlighting distribution and responsibilities.
+  - Visualization of favorite programming languages used by data professionals, with options to filter and compare preferences.
+  - Insights into the perceived difficulty of entering the data industry based on survey responses.
+  - Measurement of overall happiness at work among data professionals, providing trends and factors influencing job satisfaction.
+  
 
 Thank you for visiting my Data Analysis Projects Repository! 
 

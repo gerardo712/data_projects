@@ -33,5 +33,5 @@ Welcome to my Data Analysis Projects Repository! This repository contains a coll
   - Measurement of overall happiness at work among data professionals, providing trends and factors influencing job satisfaction.
   
 
-Thank you for visiting my Data Analysis Projects Repository! 
+Thanks for visiting my Data Analysis Projects Repository! 
 
